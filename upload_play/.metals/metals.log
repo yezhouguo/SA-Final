@@ -1,0 +1,102 @@
+INFO  started: Metals version 0.8.3 in workspace 'D:\GitHub\SA-Homework\SA-Final\upload_play'
+INFO  time: initialize in 0.74s
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+INFO  no build target: using presentation compiler with only scala-library
+七月 06, 2020 1:37:27 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 4
+七月 06, 2020 1:37:27 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 6
+七月 06, 2020 1:37:27 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 12
+七月 06, 2020 1:37:27 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 15
+七月 06, 2020 1:37:27 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 16
+WARN  code navigation does not work for the file 'D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala' because it doesn't belong to a build target.
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  code navigation does not work for the file 'D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala' because it doesn't belong to a build target.
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  code navigation does not work for the file 'D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala' because it doesn't belong to a build target.
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.3 in workspace 'D:\GitHub\SA-Homework\SA-Final\upload_play'
+INFO  time: initialize in 0.91s
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+INFO  no build target: using presentation compiler with only scala-library
+七月 06, 2020 2:46:07 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 8
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  code navigation does not work for the file 'D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala' because it doesn't belong to a build target.
+WARN  code navigation does not work for the file 'D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala' because it doesn't belong to a build target.
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: C:\Users\MSI\Desktop\GatlingTestSimulation.scala
+WARN  no build target for: C:\Users\MSI\Desktop\GatlingTestSimulation.scala
+WARN  no build target for: C:\Users\MSI\Desktop\GatlingTestSimulation.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.3 in workspace 'D:\GitHub\SA-Homework\SA-Final\upload_play'
+INFO  time: initialize in 1s
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+INFO  no build target: using presentation compiler with only scala-library
+七月 06, 2020 6:48:51 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 12
+七月 06, 2020 6:48:51 下午 org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+警告: Unmatched cancel notification for request id 13
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.3 in workspace 'D:\GitHub\SA-Homework\SA-Final\upload_play'
+INFO  time: initialize in 0.62s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+INFO  shutting down Metals
+INFO  started: Metals version 0.8.3 in workspace 'D:\GitHub\SA-Homework\SA-Final\upload_play'
+INFO  time: initialize in 0.74s
+INFO  skipping build import with status 'Requested'
+WARN  no build target for: D:\压力测试和负载均衡实验\gatling-charts-highcharts-bundle-3.3.1\user-files\simulations\gatingtest\GatlingTestSimulation.scala
+INFO  shutting down Metals

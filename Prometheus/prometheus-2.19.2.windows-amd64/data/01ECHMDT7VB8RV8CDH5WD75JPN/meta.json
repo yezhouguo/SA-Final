@@ -1,0 +1,17 @@
+{
+	"ulid": "01ECHMDT7VB8RV8CDH5WD75JPN",
+	"minTime": 1594012491533,
+	"maxTime": 1594015200000,
+	"stats": {
+		"numSamples": 135495,
+		"numSeries": 743,
+		"numChunks": 1004
+	},
+	"compaction": {
+		"level": 1,
+		"sources": [
+			"01ECHMDT7VB8RV8CDH5WD75JPN"
+		]
+	},
+	"version": 1
+}

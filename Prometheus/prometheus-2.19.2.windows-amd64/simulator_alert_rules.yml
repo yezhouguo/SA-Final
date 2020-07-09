@@ -1,0 +1,14 @@
+groups:
+- name: simulator-alert-rule
+  rules:
+  - alert: too-much-live_threads
+    expr: jvm_threads_live_threads{instance="localhost:8080",job="upload-rabbitmq-prometheus"} >= 150
+    # for: 0s
+    labels:
+      severity: critical
+
+  # - alert: SlowConnection
+  #     expr: scrape_duration_seconds{instance="localhost:8080",job="upload-rabbitmq-prometheus"} >= 3.5
+  #     # for: 1s
+  #     labels:
+  #       severity: critical

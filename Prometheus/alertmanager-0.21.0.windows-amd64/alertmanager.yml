@@ -1,0 +1,31 @@
+global:
+  resolve_timeout: 5m
+  smtp_smarthost: 'smtp.qq.com:465'
+  smtp_from: 'xxx@qq.com'
+  smtp_auth_username: 'xxx@qq.com'
+  smtp_auth_password: 'xxx'
+  smtp_require_tls: false
+
+# route:
+#   group_by: ['alertname']
+#   group_wait: 10s
+#   group_interval: 10s
+#   repeat_interval: 1h
+#   receiver: 'web.hook'
+
+route:
+  # group_interval: 1m   #当第一个报警发送后，等待'group_interval'时间来发送新的一组报警信息
+  # repeat_interval: 1m   # 如果一个报警信息已经发送成功了，等待'repeat_interval'时间来重新发送他们
+  receiver: 'mail-receiver'
+
+receivers:
+- name: 'mail-receiver'
+  email_configs:
+    - to: 'xxx@qq.com'
+
+# inhibit_rules:
+#   - source_match:
+#       severity: 'critical'
+#     target_match:
+#       severity: 'warning'
+#     equal: ['alertname', 'dev', 'instance']

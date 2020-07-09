@@ -1,0 +1,8 @@
+groups:
+- name: simulator-alert-rule
+  rules:
+  - alert: SlowConnection
+      expr: scrape_duration_seconds{instance="localhost:8080",job="upload-rabbitmq-prometheus"} >= 3.5
+      # for: 1s
+      labels:
+        severity: critical

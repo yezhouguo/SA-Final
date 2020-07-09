@@ -1,0 +1,70 @@
+<html lang="zh-CN">
+  <head>
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, 
+                                     initial-scale=1.0, 
+                                     maximum-scale=1.0, 
+                                     user-scalable=no">
+    <!-- 上述3个meta标签*必须*放在最前面，任何其他内容都*必须*跟随其后！ -->
+    <meta name="description" content="">
+    <meta name="author" content="">
+    <link rel="icon" href="../../favicon.ico">
+
+    <title>视频列表</title>
+
+    <!-- Bootstrap core CSS -->
+    <link href="https://cdn.bootcss.com/bootstrap/3.3.7/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- IE10 viewport hack for Surface/desktop Windows 8 bug -->
+    <link href="../../assets/css/ie10-viewport-bug-workaround.css" rel="stylesheet">
+
+    <!-- Custom styles for this template -->
+    <link href="signin.css" rel="stylesheet">
+
+    <!-- Just for debugging purposes. Don't actually copy these 2 lines! -->
+    <!--[if lt IE 9]><script src="../../assets/js/ie8-responsive-file-warning.js"></script><![endif]-->
+    <script src="../../assets/js/ie-emulation-modes-warning.js"></script>
+
+    <!-- HTML5 shim and Respond.js for IE8 support of HTML5 elements and media queries -->
+    <!--[if lt IE 9]>
+      <script src="https://cdn.bootcss.com/html5shiv/3.7.3/html5shiv.min.js"></script>
+      <script src="https://cdn.bootcss.com/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+  </head>
+  <body>
+    <div class="container">
+            <p th:utext="'<b>视频列表</b>'">视频信息</p>
+            <table class="table table-hover">
+              <thead>
+              <tr>
+              <th>视频名称</th>
+              </tr>
+              </thead>
+              <tbody>
+              <tr th:each="videoName : ${videosName}">
+                <td th:text="${videoName}">视频名称</td>
+                <td><button th:onclick="play([[${videoName}]])">播放</button></td>
+              </td>
+              </tr>
+              </tbody>
+              </table>
+
+    </div> <!-- /container -->
+
+<script type="text/javascript" src="ckplayer/ckplayer.js"></script>
+<div id="videoid" style="width:600px;height:400px;"></div>
+<script type="text/javascript">
+function play(videoName){
+	var videoObject = {
+		container: '#videoid',//“#”代表容器的ID，“.”或“”代表容器的class
+		variable: 'player',//该属性必需设置，值等于下面的new chplayer()的对象
+		flashplayer:false,//如果强制使用flashplayer则设置成true
+		video:'videos\\' + videoName //视频地址
+	};
+	var player=new ckplayer(videoObject);
+}
+</script>
+<p><a class="btn btn-primary btn-lg" th:href="@{/gouploadagain}" role="button">继续上传</a></p>
+</body>
+</html>
